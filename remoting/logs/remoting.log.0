@@ -1,0 +1,27 @@
+五月 18, 2019 12:20:46 上午 hudson.remoting.jnlp.Main createEngine
+信息: Setting up agent: hwj_test
+五月 18, 2019 12:20:46 上午 hudson.remoting.jnlp.Main$CuiListener <init>
+信息: Jenkins agent is running in headless mode.
+五月 18, 2019 12:20:46 上午 hudson.remoting.Engine startEngine
+信息: Using Remoting version: 3.29
+五月 18, 2019 12:20:46 上午 org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+信息: Using E:\domo\workspace\AutoTestRunJob\remoting as a remoting work directory
+五月 18, 2019 12:20:46 上午 hudson.remoting.jnlp.Main$CuiListener status
+信息: Locating server among [http://127.0.0.1:8080/]
+五月 18, 2019 12:20:46 上午 org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
+信息: Remoting server accepts the following protocols: [JNLP4-connect, Ping]
+五月 18, 2019 12:20:46 上午 hudson.remoting.jnlp.Main$CuiListener status
+信息: Agent discovery successful
+  Agent address: 127.0.0.1
+  Agent port:    49820
+  Identity:      7a:10:53:eb:77:a5:4d:1e:a0:6c:dd:62:78:00:81:5e
+五月 18, 2019 12:20:46 上午 hudson.remoting.jnlp.Main$CuiListener status
+信息: Handshaking
+五月 18, 2019 12:20:46 上午 hudson.remoting.jnlp.Main$CuiListener status
+信息: Connecting to 127.0.0.1:49820
+五月 18, 2019 12:20:46 上午 hudson.remoting.jnlp.Main$CuiListener status
+信息: Trying protocol: JNLP4-connect
+五月 18, 2019 12:20:46 上午 hudson.remoting.jnlp.Main$CuiListener status
+信息: Remote identity confirmed: 7a:10:53:eb:77:a5:4d:1e:a0:6c:dd:62:78:00:81:5e
+五月 18, 2019 12:20:48 上午 hudson.remoting.jnlp.Main$CuiListener status
+信息: Connected
